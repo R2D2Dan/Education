@@ -1,9 +1,9 @@
 package main
 
 import (
-	ch1 "Education/ch1"
+	ch2 "Education/ch2"
 )
 
 func main() {
-	ch1.Logging()
+	ch2.MapNoStar()
 }
