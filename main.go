@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
-	ch2.MapNoStar()
+
+	ch2.Mainlog()
 }
