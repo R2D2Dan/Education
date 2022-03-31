@@ -1,10 +1,10 @@
 package main
 
 import (
-	ch2 "Education/ch2"
+	ch3 "Education/ch3"
 )
 
 func main() {
 
-	ch2.Mainlog()
+	ch3.ChangeDTMain()
 }
