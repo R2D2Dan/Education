@@ -6,5 +6,5 @@ import (
 
 func main() {
 
-	ch3.MainKeyValue()
+	ch3.MainJSON()
 }
